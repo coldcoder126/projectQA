@@ -1,0 +1,7 @@
+.idea
+venv/
+.DS_Store
+curl.sh
+logs/
+__pycache__/
+tmp/
